@@ -1,6 +1,5 @@
-### Hi there 👋
 
-# Portfolio: Android Developer
+###Android Developer
 
 ## Introduction:
 I am a passionate and dedicated Android developer with a strong desire to contribute to exciting projects and continuously expand my development skills. With a solid foundation in Android development and a keen interest in learning new technologies, I am committed to delivering high-quality and innovative solutions that meet the needs of users and clients.
