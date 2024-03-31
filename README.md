@@ -16,7 +16,7 @@ I am a passionate and dedicated Android developer with a strong desire to contri
 - Continuous learner, always exploring new technologies and best practices in Android development.
 
 ## Projects:
-
+NewsReader App: Stay informed with NewsReader, your go-to Android app for real-time updates on the latest news from BBC News and beyond. Customize your news feed, dive into engaging content with images and detailed descriptions, and bookmark articles for later reading. Share interesting stories effortlessly with friends and family. With NewsReader, you'll stay ahead of the curve, accessing comprehensive coverage on a wide range of topics, all delivered in a user-friendly interface. Download NewsReader now and empower yourself with the latest news and information, anytime, anywhere.
 
 ## Contributions:
 - Actively participated in open-source projects on GitHub, contributing code enhancements, bug fixes, and feature implementations to various Android libraries and frameworks.
