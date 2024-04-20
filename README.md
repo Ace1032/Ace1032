@@ -21,7 +21,7 @@ NewsReader App: Stay informed with NewsReader, your go-to Android app for real-t
 ## Contributions:
 - Actively participated in open-source projects on GitHub, contributing code enhancements, bug fixes, and feature implementations to various Android libraries and frameworks.
 - Engaged in online developer communities and forums to share knowledge, seek advice, and collaborate with fellow developers on challenging problems and projects.
-- Presented technical talks and tutorials at local meetups and conferences to share insights and experiences in Android development and best practices.
+- Presented technical talks and tutorials at local meetups and conferences to share insights and experiences in Android development and best practices. Encourage high school students to solve coding problems on CodeSignal https://github.com/Ace1032/codesignal-solutions
 
 ## Education:
 - Bachelor of Science in Computer Science (BSc CS) - California State University, Monterey Monterey Bay,  California, GPA - 3.6, 2016
