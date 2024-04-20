@@ -2,7 +2,7 @@
 # Android Developer
 
 ## Introduction:
-I am a passionate and dedicated Android developer with a strong desire to contribute to exciting projects and continuously expand my development skills. With a solid foundation in Android development and a keen interest in learning new technologies, I am committed to delivering high-quality and innovative solutions that meet the needs of users and clients.
+I am a passionate and dedicated Software developer with a strong desire to contribute to exciting projects and continuously expand my development skills. With a solid foundation in software development and a keen interest in learning new technologies, I am committed to delivering high-quality and innovative solutions that meet the needs of users and clients.
 
 ## Skills:
 - Proficient in Java and Kotlin programming languages for Android development.
