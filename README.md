@@ -6,6 +6,10 @@ I am a passionate and dedicated Software developer with a strong desire to contr
 
 
 ## Projects:
+
+[Store App](https://github.com/Ace1032/StoreApp/tree/master/app/src/main/java/com/example/practice3)
+This Android app lists products in a searchable LazyColumn using Jetpack Compose and queries product data from Firestore. It intelligently fetches data only when necessary, relying on Room database for offline storage. The app uses ViewModel, LiveData, and StateFlow for UI updates and Kotlin Coroutines for asynchronous tasks, ensuring smooth performance
+
 [AndroidFundamentals](https://github.com/Ace1032/AndroidFundamentals)
 AndroidFundamental encompasses a comprehensive range of foundational Android concepts. This project is designed for educational purposes.
 
