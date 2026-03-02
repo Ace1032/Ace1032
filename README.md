@@ -7,7 +7,7 @@ I am a passionate and dedicated Software developer with a strong desire to contr
 
 ## Projects:
 
-Runtime–Accuracy Tradeoff in FPTAS
+[Runtime–Accuracy Tradeoff in FPTAS]
 Greedy is fast but provides no guarantee for 0/1 knapsack.
 Exact dynamic programming gives the optimal solution but runs in pseudo-polynomial time.
 FPTAS provides a provable (1−ε) approximation in fully polynomial time, offering a controllable tradeoff between accuracy and runtime.
