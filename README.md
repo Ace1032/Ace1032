@@ -7,14 +7,13 @@ I am a passionate and dedicated Software developer with a strong desire to contr
 
 ## Projects:
 
-[Runtime–Accuracy Tradeoff in FPTAS]
+[Runtime–Accuracy Tradeoff in FPTAS](https://github.com/Ace1032/Knapsack)
 Greedy is fast but provides no guarantee for 0/1 knapsack.
 Exact dynamic programming gives the optimal solution but runs in pseudo-polynomial time.
 FPTAS provides a provable (1−ε) approximation in fully polynomial time, offering a controllable tradeoff between accuracy and runtime.
 Source Material: Ibarra, O. H., & Kim, C. E. (1975). Fast Approximation Algorithms for the Knapsack and Sum of Subset Problems.
 (Link: https://doi.org/10.1145/321906.321909Links to an external site.)
-
-code and paper : https://github.com/Ace1032/Knapsack/tree/masterLinks to an external site. 
+ 
 [Store App](https://github.com/Ace1032/StoreApp/tree/master/app/src/main/java/com/example/practice3)
 This Android app lists products in a searchable LazyColumn using Jetpack Compose and queries product data from Firestore. It intelligently fetches data only when necessary, relying on Room database for offline storage. The app uses ViewModel, LiveData, and StateFlow for UI updates and Kotlin Coroutines for asynchronous tasks, ensuring smooth performance
 
