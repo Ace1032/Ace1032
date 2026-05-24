@@ -7,6 +7,10 @@ I am a passionate and dedicated Software developer with a strong desire to contr
 
 ## Projects:
 
+[Stereo Depth-Based Scene Segmentation Using K-Means Clustering on Raspberry Pi](https://github.com/Ace1032/Stereo-Depth-Based-Scene-Segmentation-Using-K-Means-Clustering-on-Raspberry-Pi)
+This project explores low-cost passive stereo vision for depth estimation and scene segmentation using two USB cameras connected to a Raspberry Pi. OpenCV-based stereo calibration and disparity estimation techniques were implemented using StereoBM and StereoSGBM algorithms to generate depth maps from stereo image pairs. In addition, K-Means clustering was applied to segment disparity maps into coarse depth regions such as near, mid-distance, and far objects. The project also investigates the trade-offs between stereo matching quality, computational performance, and robustness under challenging conditions such as low-texture surfaces and lighting variation. Experimental results demonstrate both the strengths and limitations of passive stereo vision systems for embedded 3D scene analysis applications.
+(Link: https://github.com/Ace1032/Stereo-Depth-Based-Scene-Segmentation-Using-K-Means-Clustering-on-Raspberry-Pi/blob/main/README.md )  (05/ 15/26)
+
 [Runtime–Accuracy Tradeoff in FPTAS](https://github.com/Ace1032/Knapsack)
 Greedy is fast but provides no guarantee for 0/1 knapsack.
 Exact dynamic programming gives the optimal solution but runs in pseudo-polynomial time.
